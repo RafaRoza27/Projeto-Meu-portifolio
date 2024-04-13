@@ -159,6 +159,10 @@ section.sobre .flex {
   gap: 60px;
 }
 
+.img-sobre {
+  border-radius: 40px;
+}
+
 .sobre .txt-sobre {
   color: #fff;
 }
